@@ -1,6 +1,8 @@
-Tema 2 - Stegano - IOCLA
+## Tema 2 - Stegano - IOCLA
 
 In aceasta tema am aplicat criptarea/decriptarea unui mesaj in/din imagini folosind mai multe metode:
+    
+    
     1. Bruteforce pe XOR cu cheie de un octet
         In acest task am decriptarea un mesaj folosind XOR cu o cheie de un octet prin Bruteforce facand un loop de la 0 la 255 incercand sa verific daca se 
     gaseste un cuvant dat din mesaj final.
@@ -46,4 +48,5 @@ In aceasta tema am aplicat criptarea/decriptarea unui mesaj in/din imagini folos
 
     6. Aplicarea unui filtru pe imagine - Nu am mai avut timp sa il implementez 
     
+###[Cerinta](https://ocw.cs.pub.ro/courses/iocla/teme/tema-2)    
     
