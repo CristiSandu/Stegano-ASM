@@ -48,5 +48,5 @@ In aceasta tema am aplicat criptarea/decriptarea unui mesaj in/din imagini folos
 
     6. Aplicarea unui filtru pe imagine - Nu am mai avut timp sa il implementez 
     
-###[Cerinta](https://ocw.cs.pub.ro/courses/iocla/teme/tema-2)    
+### [Cerinta](https://ocw.cs.pub.ro/courses/iocla/teme/tema-2)    
     
